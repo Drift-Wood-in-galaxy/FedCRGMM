@@ -1,0 +1,1526 @@
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.1920
+Training Loss [Local Model][Train Clients]: 0.9931
+Validation Loss [Global Model][All Clients]: 12.6216
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0787
+Validation Accuracy [Local Model][All Clients]:  0.1323
+Training Loss [Local Model][Train Clients]: 2.4091
+Validation Loss [Global Model][All Clients]: 11.1582
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.0740
+Validation Accuracy [Local Model][All Clients]:  0.1478
+Training Loss [Local Model][Train Clients]: 2.0255
+Validation Loss [Global Model][All Clients]: 7.5443
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.6629
+Validation Accuracy [Local Model][All Clients]:  0.1922
+Training Loss [Local Model][Train Clients]: 1.2134
+Validation Loss [Global Model][All Clients]: 3.9843
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.3318
+Validation Accuracy [Local Model][All Clients]:  0.6161
+Training Loss [Local Model][Train Clients]: 1.2305
+Validation Loss [Global Model][All Clients]: 3.4350
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.4575
+Validation Accuracy [Local Model][All Clients]:  0.4025
+Training Loss [Local Model][Train Clients]: 1.0844
+Validation Loss [Global Model][All Clients]: 3.6600
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.4593
+Validation Accuracy [Local Model][All Clients]:  0.1867
+Training Loss [Local Model][Train Clients]: 2.1204
+Validation Loss [Global Model][All Clients]: 3.7095
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.4237
+Validation Accuracy [Local Model][All Clients]:  0.4988
+Training Loss [Local Model][Train Clients]: 1.0390
+Validation Loss [Global Model][All Clients]: 3.5874
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.4412
+Validation Accuracy [Local Model][All Clients]:  0.4979
+Training Loss [Local Model][Train Clients]: 1.0567
+Validation Loss [Global Model][All Clients]: 3.6841
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.3994
+Validation Accuracy [Local Model][All Clients]:  0.4822
+Training Loss [Local Model][Train Clients]: 1.0885
+Validation Loss [Global Model][All Clients]: 3.6203
+
+
+Round:  10
+Validation Accuracy [Global Model][All Clients]: 0.3332
+Validation Accuracy [Local Model][All Clients]:  0.4802
+Training Loss [Local Model][Train Clients]: 1.2599
+Validation Loss [Global Model][All Clients]: 3.4672
+
+
+Round:  11
+Validation Accuracy [Global Model][All Clients]: 0.3404
+Validation Accuracy [Local Model][All Clients]:  0.4281
+Training Loss [Local Model][Train Clients]: 1.2689
+Validation Loss [Global Model][All Clients]: 3.5198
+
+
+Round:  12
+Validation Accuracy [Global Model][All Clients]: 0.3779
+Validation Accuracy [Local Model][All Clients]:  0.4066
+Training Loss [Local Model][Train Clients]: 3.3122
+Validation Loss [Global Model][All Clients]: 3.6165
+
+
+Round:  13
+Validation Accuracy [Global Model][All Clients]: 0.3732
+Validation Accuracy [Local Model][All Clients]:  0.4461
+Training Loss [Local Model][Train Clients]: 1.0340
+Validation Loss [Global Model][All Clients]: 3.5470
+
+
+Round:  14
+Validation Accuracy [Global Model][All Clients]: 0.3983
+Validation Accuracy [Local Model][All Clients]:  0.4745
+Training Loss [Local Model][Train Clients]: 1.0131
+Validation Loss [Global Model][All Clients]: 3.6027
+
+
+Round:  15
+Validation Accuracy [Global Model][All Clients]: 0.3565
+Validation Accuracy [Local Model][All Clients]:  0.4891
+Training Loss [Local Model][Train Clients]: 1.0167
+Validation Loss [Global Model][All Clients]: 3.4576
+
+
+Round:  16
+Validation Accuracy [Global Model][All Clients]: 0.3690
+Validation Accuracy [Local Model][All Clients]:  0.4457
+Training Loss [Local Model][Train Clients]: 1.0462
+Validation Loss [Global Model][All Clients]: 3.4340
+
+
+Round:  17
+Validation Accuracy [Global Model][All Clients]: 0.4214
+Validation Accuracy [Local Model][All Clients]:  0.6343
+Training Loss [Local Model][Train Clients]: 1.0349
+Validation Loss [Global Model][All Clients]: 3.5736
+
+
+Round:  18
+Validation Accuracy [Global Model][All Clients]: 0.3503
+Validation Accuracy [Local Model][All Clients]:  0.1811
+Training Loss [Local Model][Train Clients]: 1.0313
+Validation Loss [Global Model][All Clients]: 3.4712
+
+
+Round:  19
+Validation Accuracy [Global Model][All Clients]: 0.3407
+Validation Accuracy [Local Model][All Clients]:  0.4148
+Training Loss [Local Model][Train Clients]: 1.0289
+Validation Loss [Global Model][All Clients]: 5.6731
+
+
+Round:  20
+Validation Accuracy [Global Model][All Clients]: 0.3846
+Validation Accuracy [Local Model][All Clients]:  0.4404
+Training Loss [Local Model][Train Clients]: 0.9844
+Validation Loss [Global Model][All Clients]: 3.5179
+
+
+Round:  21
+Validation Accuracy [Global Model][All Clients]: 0.3460
+Validation Accuracy [Local Model][All Clients]:  0.4751
+Training Loss [Local Model][Train Clients]: 1.0034
+Validation Loss [Global Model][All Clients]: 3.4256
+
+
+Round:  22
+Validation Accuracy [Global Model][All Clients]: 0.4855
+Validation Accuracy [Local Model][All Clients]:  0.4551
+Training Loss [Local Model][Train Clients]: 1.0088
+Validation Loss [Global Model][All Clients]: 3.7030
+
+
+Round:  23
+Validation Accuracy [Global Model][All Clients]: 0.3151
+Validation Accuracy [Local Model][All Clients]:  0.5210
+Training Loss [Local Model][Train Clients]: 1.0357
+Validation Loss [Global Model][All Clients]: 3.4211
+
+
+Round:  24
+Validation Accuracy [Global Model][All Clients]: 0.3505
+Validation Accuracy [Local Model][All Clients]:  0.4227
+Training Loss [Local Model][Train Clients]: 1.0723
+Validation Loss [Global Model][All Clients]: 3.5379
+
+
+Round:  25
+Validation Accuracy [Global Model][All Clients]: 0.3172
+Validation Accuracy [Local Model][All Clients]:  0.4369
+Training Loss [Local Model][Train Clients]: 161.2418
+Validation Loss [Global Model][All Clients]: 3.4422
+
+
+Round:  26
+Validation Accuracy [Global Model][All Clients]: 0.3151
+Validation Accuracy [Local Model][All Clients]:  0.3898
+Training Loss [Local Model][Train Clients]: 1.0410
+Validation Loss [Global Model][All Clients]: 3.4212
+
+
+Round:  27
+Validation Accuracy [Global Model][All Clients]: 0.3151
+Validation Accuracy [Local Model][All Clients]:  0.4337
+Training Loss [Local Model][Train Clients]: 1.0021
+Validation Loss [Global Model][All Clients]: 3.4212
+
+
+Round:  28
+Validation Accuracy [Global Model][All Clients]: 0.3416
+Validation Accuracy [Local Model][All Clients]:  0.4075
+Training Loss [Local Model][Train Clients]: 1.0279
+Validation Loss [Global Model][All Clients]: 3.4723
+
+
+Round:  29
+Validation Accuracy [Global Model][All Clients]: 0.3300
+Validation Accuracy [Local Model][All Clients]:  0.2225
+Training Loss [Local Model][Train Clients]: 1.0149
+Validation Loss [Global Model][All Clients]: 3.4371
+
+
+Round:  30
+Validation Accuracy [Global Model][All Clients]: 0.5469
+Validation Accuracy [Local Model][All Clients]:  0.4329
+Training Loss [Local Model][Train Clients]: 0.9953
+Validation Loss [Global Model][All Clients]: 3.7998
+
+
+Round:  31
+Validation Accuracy [Global Model][All Clients]: 0.3151
+Validation Accuracy [Local Model][All Clients]:  0.5668
+Training Loss [Local Model][Train Clients]: 1.0327
+Validation Loss [Global Model][All Clients]: 3.4212
+
+
+Round:  32
+Validation Accuracy [Global Model][All Clients]: 0.3393
+Validation Accuracy [Local Model][All Clients]:  0.3979
+Training Loss [Local Model][Train Clients]: 0.9967
+Validation Loss [Global Model][All Clients]: 3.4562
+
+
+Round:  33
+Validation Accuracy [Global Model][All Clients]: 0.3593
+Validation Accuracy [Local Model][All Clients]:  0.4575
+Training Loss [Local Model][Train Clients]: 0.9897
+Validation Loss [Global Model][All Clients]: 3.4699
+
+
+Round:  34
+Validation Accuracy [Global Model][All Clients]: 0.3193
+Validation Accuracy [Local Model][All Clients]:  0.4323
+Training Loss [Local Model][Train Clients]: 1.0424
+Validation Loss [Global Model][All Clients]: 3.4310
+
+
+Round:  35
+Validation Accuracy [Global Model][All Clients]: 0.5785
+Validation Accuracy [Local Model][All Clients]:  0.2119
+Training Loss [Local Model][Train Clients]: 0.9934
+Validation Loss [Global Model][All Clients]: 3.9004
+
+
+Round:  36
+Validation Accuracy [Global Model][All Clients]: 0.4129
+Validation Accuracy [Local Model][All Clients]:  0.1008
+Training Loss [Local Model][Train Clients]: 320120.7052
+Validation Loss [Global Model][All Clients]: 4777.9173
+
+
+Round:  37
+Validation Accuracy [Global Model][All Clients]: 0.2020
+Validation Accuracy [Local Model][All Clients]:  0.2130
+Training Loss [Local Model][Train Clients]: 77113.0176
+Validation Loss [Global Model][All Clients]: 34632.4295
+
+
+Round:  38
+Validation Accuracy [Global Model][All Clients]: 0.4699
+Validation Accuracy [Local Model][All Clients]:  0.2638
+Training Loss [Local Model][Train Clients]: 5217.6059
+Validation Loss [Global Model][All Clients]: 386.9862
+
+
+Round:  39
+Validation Accuracy [Global Model][All Clients]: 0.2231
+Validation Accuracy [Local Model][All Clients]:  0.4508
+Training Loss [Local Model][Train Clients]: 2106.4098
+Validation Loss [Global Model][All Clients]: 403.6060
+
+
+Round:  40
+Validation Accuracy [Global Model][All Clients]: 0.2388
+Validation Accuracy [Local Model][All Clients]:  0.2498
+Training Loss [Local Model][Train Clients]: 49091.2901
+Validation Loss [Global Model][All Clients]: 5300.3939
+
+
+Round:  41
+Validation Accuracy [Global Model][All Clients]: 0.2697
+Validation Accuracy [Local Model][All Clients]:  0.3201
+Training Loss [Local Model][Train Clients]: 897.2205
+Validation Loss [Global Model][All Clients]: 25.4224
+
+
+Round:  42
+Validation Accuracy [Global Model][All Clients]: 0.2522
+Validation Accuracy [Local Model][All Clients]:  0.3242
+Training Loss [Local Model][Train Clients]: 892.0819
+Validation Loss [Global Model][All Clients]: 25.1911
+
+
+Round:  43
+Validation Accuracy [Global Model][All Clients]: 0.3050
+Validation Accuracy [Local Model][All Clients]:  0.3696
+Training Loss [Local Model][Train Clients]: 402.6897
+Validation Loss [Global Model][All Clients]: 13.6102
+
+
+Round:  44
+Validation Accuracy [Global Model][All Clients]: 0.3310
+Validation Accuracy [Local Model][All Clients]:  0.3060
+Training Loss [Local Model][Train Clients]: 322.9500
+Validation Loss [Global Model][All Clients]: 53.0109
+
+
+Round:  45
+Validation Accuracy [Global Model][All Clients]: 0.2946
+Validation Accuracy [Local Model][All Clients]:  0.3943
+Training Loss [Local Model][Train Clients]: 346.4501
+Validation Loss [Global Model][All Clients]: 42.1000
+
+
+Round:  46
+Validation Accuracy [Global Model][All Clients]: 0.3007
+Validation Accuracy [Local Model][All Clients]:  0.4269
+Training Loss [Local Model][Train Clients]: 134.9054
+Validation Loss [Global Model][All Clients]: 20.3790
+
+
+Round:  47
+Validation Accuracy [Global Model][All Clients]: 0.3202
+Validation Accuracy [Local Model][All Clients]:  0.2623
+Training Loss [Local Model][Train Clients]: 10321.8802
+Validation Loss [Global Model][All Clients]: 50.1748
+
+
+Round:  48
+Validation Accuracy [Global Model][All Clients]: 0.4100
+Validation Accuracy [Local Model][All Clients]:  0.3669
+Training Loss [Local Model][Train Clients]: 974.0519
+Validation Loss [Global Model][All Clients]: 60.7658
+
+
+Round:  49
+Validation Accuracy [Global Model][All Clients]: 0.3963
+Validation Accuracy [Local Model][All Clients]:  0.4312
+Training Loss [Local Model][Train Clients]: 439.7753
+Validation Loss [Global Model][All Clients]: 163.4869
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.0783
+Training Loss [Local Model][Train Clients]: 5.6105
+Validation Loss [Global Model][All Clients]: 12.6337
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0548
+Validation Accuracy [Local Model][All Clients]:  0.0806
+Training Loss [Local Model][Train Clients]: 4.1963
+Validation Loss [Global Model][All Clients]: 10.6279
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.0524
+Validation Accuracy [Local Model][All Clients]:  0.1261
+Training Loss [Local Model][Train Clients]: 3.3934
+Validation Loss [Global Model][All Clients]: 10.5276
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.0366
+Validation Accuracy [Local Model][All Clients]:  0.1291
+Training Loss [Local Model][Train Clients]: 2.5284
+Validation Loss [Global Model][All Clients]: 11.0728
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.0868
+Validation Accuracy [Local Model][All Clients]:  0.1636
+Training Loss [Local Model][Train Clients]: 2.1038
+Validation Loss [Global Model][All Clients]: 9.5900
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.0440
+Validation Accuracy [Local Model][All Clients]:  0.1611
+Training Loss [Local Model][Train Clients]: 2.0975
+Validation Loss [Global Model][All Clients]: 8.1700
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.1569
+Validation Accuracy [Local Model][All Clients]:  0.1566
+Training Loss [Local Model][Train Clients]: 1.9799
+Validation Loss [Global Model][All Clients]: 6.8392
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.1756
+Validation Accuracy [Local Model][All Clients]:  0.2570
+Training Loss [Local Model][Train Clients]: 1.8576
+Validation Loss [Global Model][All Clients]: 5.8697
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.2186
+Validation Accuracy [Local Model][All Clients]:  0.2601
+Training Loss [Local Model][Train Clients]: 1.4810
+Validation Loss [Global Model][All Clients]: 4.9062
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.6213
+Validation Accuracy [Local Model][All Clients]:  0.3073
+Training Loss [Local Model][Train Clients]: 2.0122
+Validation Loss [Global Model][All Clients]: 4.1396
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.0674
+Training Loss [Local Model][Train Clients]: 5.0492
+Validation Loss [Global Model][All Clients]: 12.5391
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0689
+Validation Accuracy [Local Model][All Clients]:  0.0645
+Training Loss [Local Model][Train Clients]: 5.3915
+Validation Loss [Global Model][All Clients]: 10.3756
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.0833
+Validation Accuracy [Local Model][All Clients]:  0.1305
+Training Loss [Local Model][Train Clients]: 4.1607
+Validation Loss [Global Model][All Clients]: 10.7401
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.0705
+Validation Accuracy [Local Model][All Clients]:  0.1215
+Training Loss [Local Model][Train Clients]: 1.7931
+Validation Loss [Global Model][All Clients]: 10.3844
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.0586
+Validation Accuracy [Local Model][All Clients]:  0.1448
+Training Loss [Local Model][Train Clients]: 2.0046
+Validation Loss [Global Model][All Clients]: 10.6548
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.1750
+Validation Accuracy [Local Model][All Clients]:  0.0577
+Training Loss [Local Model][Train Clients]: 20.4682
+Validation Loss [Global Model][All Clients]: 6.6056
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.0732
+Validation Accuracy [Local Model][All Clients]:  0.1698
+Training Loss [Local Model][Train Clients]: 8.2765
+Validation Loss [Global Model][All Clients]: 8.3690
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.1204
+Validation Accuracy [Local Model][All Clients]:  0.2112
+Training Loss [Local Model][Train Clients]: 1.8878
+Validation Loss [Global Model][All Clients]: 7.0157
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.1573
+Validation Accuracy [Local Model][All Clients]:  0.2357
+Training Loss [Local Model][Train Clients]: 1.6600
+Validation Loss [Global Model][All Clients]: 6.2222
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.1878
+Validation Accuracy [Local Model][All Clients]:  0.2554
+Training Loss [Local Model][Train Clients]: 1.4699
+Validation Loss [Global Model][All Clients]: 5.4624
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.0608
+Training Loss [Local Model][Train Clients]: 5.8451
+Validation Loss [Global Model][All Clients]: 12.5920
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0653
+Validation Accuracy [Local Model][All Clients]:  0.0644
+Training Loss [Local Model][Train Clients]: 3.6043
+Validation Loss [Global Model][All Clients]: 10.3883
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.0594
+Validation Accuracy [Local Model][All Clients]:  0.1214
+Training Loss [Local Model][Train Clients]: 2.7877
+Validation Loss [Global Model][All Clients]: 10.7043
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.0657
+Validation Accuracy [Local Model][All Clients]:  0.1222
+Training Loss [Local Model][Train Clients]: 5.0896
+Validation Loss [Global Model][All Clients]: 10.9499
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.0022
+Training Loss [Local Model][Train Clients]: 1936.7562
+Validation Loss [Global Model][All Clients]: 800.1360
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.0179
+Training Loss [Local Model][Train Clients]: 149.2270
+Validation Loss [Global Model][All Clients]: 585.9932
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.0823
+Validation Accuracy [Local Model][All Clients]:  0.0739
+Training Loss [Local Model][Train Clients]: 23.1975
+Validation Loss [Global Model][All Clients]: 58.9909
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.0757
+Validation Accuracy [Local Model][All Clients]:  0.1746
+Training Loss [Local Model][Train Clients]: 1.9379
+Validation Loss [Global Model][All Clients]: 8.7213
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.1039
+Validation Accuracy [Local Model][All Clients]:  0.1990
+Training Loss [Local Model][Train Clients]: 1.8923
+Validation Loss [Global Model][All Clients]: 7.3655
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.1688
+Validation Accuracy [Local Model][All Clients]:  0.2151
+Training Loss [Local Model][Train Clients]: 1.7324
+Validation Loss [Global Model][All Clients]: 6.0604
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.0661
+Training Loss [Local Model][Train Clients]: 6.0174
+Validation Loss [Global Model][All Clients]: 12.6098
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0031
+Validation Accuracy [Local Model][All Clients]:  0.0776
+Training Loss [Local Model][Train Clients]: 3.8888
+Validation Loss [Global Model][All Clients]: 12.5338
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.0620
+Validation Accuracy [Local Model][All Clients]:  0.0910
+Training Loss [Local Model][Train Clients]: 3.3882
+Validation Loss [Global Model][All Clients]: 10.9278
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.0295
+Validation Accuracy [Local Model][All Clients]:  0.1598
+Training Loss [Local Model][Train Clients]: 2.2390
+Validation Loss [Global Model][All Clients]: 7.9368
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.1807
+Validation Accuracy [Local Model][All Clients]:  0.1744
+Training Loss [Local Model][Train Clients]: 1.6665
+Validation Loss [Global Model][All Clients]: 5.9871
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.5370
+Validation Accuracy [Local Model][All Clients]:  0.2385
+Training Loss [Local Model][Train Clients]: 1.4607
+Validation Loss [Global Model][All Clients]: 4.2954
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.5465
+Validation Accuracy [Local Model][All Clients]:  0.5436
+Training Loss [Local Model][Train Clients]: 1.2224
+Validation Loss [Global Model][All Clients]: 3.8323
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.3169
+Validation Accuracy [Local Model][All Clients]:  0.5477
+Training Loss [Local Model][Train Clients]: 1.1427
+Validation Loss [Global Model][All Clients]: 3.4609
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.3572
+Validation Accuracy [Local Model][All Clients]:  0.4138
+Training Loss [Local Model][Train Clients]: 1.1146
+Validation Loss [Global Model][All Clients]: 3.4572
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.2964
+Validation Accuracy [Local Model][All Clients]:  0.4408
+Training Loss [Local Model][Train Clients]: 1.0481
+Validation Loss [Global Model][All Clients]: 3.4648
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.2119
+Training Loss [Local Model][Train Clients]: 0.5768
+Validation Loss [Global Model][All Clients]: 12.5729
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.5965
+Validation Accuracy [Local Model][All Clients]:  0.2011
+Training Loss [Local Model][Train Clients]: 0.4779
+Validation Loss [Global Model][All Clients]: 4.1702
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.4310
+Validation Accuracy [Local Model][All Clients]:  0.6393
+Training Loss [Local Model][Train Clients]: 0.4488
+Validation Loss [Global Model][All Clients]: 3.6981
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.4242
+Validation Accuracy [Local Model][All Clients]:  0.5328
+Training Loss [Local Model][Train Clients]: 0.4589
+Validation Loss [Global Model][All Clients]: 3.5106
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.4658
+Validation Accuracy [Local Model][All Clients]:  0.4945
+Training Loss [Local Model][Train Clients]: 0.4707
+Validation Loss [Global Model][All Clients]: 3.4860
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.2154
+Training Loss [Local Model][Train Clients]: 0.6920
+Validation Loss [Global Model][All Clients]: 125.4388
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 5.6803
+Validation Accuracy [Local Model][All Clients]:  0.2092
+Training Loss [Local Model][Train Clients]: 0.4922
+Validation Loss [Global Model][All Clients]: 38.9884
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 3.6958
+Validation Accuracy [Local Model][All Clients]:  5.7560
+Training Loss [Local Model][Train Clients]: 0.4333
+Validation Loss [Global Model][All Clients]: 35.6982
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.2238
+Training Loss [Local Model][Train Clients]: 0.5367
+Validation Loss [Global Model][All Clients]: 12.5953
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.4622
+Validation Accuracy [Local Model][All Clients]:  0.2311
+Training Loss [Local Model][Train Clients]: 0.4776
+Validation Loss [Global Model][All Clients]: 3.7604
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.5944
+Validation Accuracy [Local Model][All Clients]:  0.5546
+Training Loss [Local Model][Train Clients]: 0.4830
+Validation Loss [Global Model][All Clients]: 4.1543
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.3372
+Validation Accuracy [Local Model][All Clients]:  0.6387
+Training Loss [Local Model][Train Clients]: 0.4713
+Validation Loss [Global Model][All Clients]: 3.5104
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.4009
+Validation Accuracy [Local Model][All Clients]:  0.4458
+Training Loss [Local Model][Train Clients]: 0.4835
+Validation Loss [Global Model][All Clients]: 3.5193
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.2006
+Training Loss [Local Model][Train Clients]: 0.4580
+Validation Loss [Global Model][All Clients]: 12.5112
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0871
+Validation Accuracy [Local Model][All Clients]:  0.0413
+Training Loss [Local Model][Train Clients]: 20.5289
+Validation Loss [Global Model][All Clients]: 8.0792
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.2305
+Validation Accuracy [Local Model][All Clients]:  0.1294
+Training Loss [Local Model][Train Clients]: 7.6915
+Validation Loss [Global Model][All Clients]: 6.0988
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.2667
+Validation Accuracy [Local Model][All Clients]:  0.2750
+Training Loss [Local Model][Train Clients]: 3.3370
+Validation Loss [Global Model][All Clients]: 6.1234
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.1549
+Validation Accuracy [Local Model][All Clients]:  0.3112
+Training Loss [Local Model][Train Clients]: 10.8076
+Validation Loss [Global Model][All Clients]: 6.6212
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.1450
+Validation Accuracy [Local Model][All Clients]:  0.2064
+Training Loss [Local Model][Train Clients]: 4.0957
+Validation Loss [Global Model][All Clients]: 5.4851
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.2967
+Validation Accuracy [Local Model][All Clients]:  0.2001
+Training Loss [Local Model][Train Clients]: 10.0214
+Validation Loss [Global Model][All Clients]: 5.2429
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.2840
+Validation Accuracy [Local Model][All Clients]:  0.3322
+Training Loss [Local Model][Train Clients]: 6.6562
+Validation Loss [Global Model][All Clients]: 6.6769
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.2330
+Validation Accuracy [Local Model][All Clients]:  0.3190
+Training Loss [Local Model][Train Clients]: 29.4569
+Validation Loss [Global Model][All Clients]: 5.7386
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.2722
+Validation Accuracy [Local Model][All Clients]:  0.2593
+Training Loss [Local Model][Train Clients]: 14.8678
+Validation Loss [Global Model][All Clients]: 6.8965
+
+
+Round:  10
+Validation Accuracy [Global Model][All Clients]: 0.1786
+Validation Accuracy [Local Model][All Clients]:  0.3155
+Training Loss [Local Model][Train Clients]: 5.9232
+Validation Loss [Global Model][All Clients]: 4.9439
+
+
+Round:  11
+Validation Accuracy [Global Model][All Clients]: 0.2222
+Validation Accuracy [Local Model][All Clients]:  0.2051
+Training Loss [Local Model][Train Clients]: 11.1883
+Validation Loss [Global Model][All Clients]: 4.9092
+
+
+Round:  12
+Validation Accuracy [Global Model][All Clients]: 0.3057
+Validation Accuracy [Local Model][All Clients]:  0.1991
+Training Loss [Local Model][Train Clients]: 11.1520
+Validation Loss [Global Model][All Clients]: 6.5576
+
+
+Round:  13
+Validation Accuracy [Global Model][All Clients]: 0.2235
+Validation Accuracy [Local Model][All Clients]:  0.2946
+Training Loss [Local Model][Train Clients]: 12.5779
+Validation Loss [Global Model][All Clients]: 5.1173
+
+
+Round:  14
+Validation Accuracy [Global Model][All Clients]: 0.2972
+Validation Accuracy [Local Model][All Clients]:  0.2605
+Training Loss [Local Model][Train Clients]: 47.4784
+Validation Loss [Global Model][All Clients]: 7.4889
+
+
+Round:  15
+Validation Accuracy [Global Model][All Clients]: 0.2802
+Validation Accuracy [Local Model][All Clients]:  0.2921
+Training Loss [Local Model][Train Clients]: 35.7221
+Validation Loss [Global Model][All Clients]: 6.4293
+
+
+Round:  16
+Validation Accuracy [Global Model][All Clients]: 0.2844
+Validation Accuracy [Local Model][All Clients]:  0.2346
+Training Loss [Local Model][Train Clients]: 37.8027
+Validation Loss [Global Model][All Clients]: 7.5848
+
+
+Round:  17
+Validation Accuracy [Global Model][All Clients]: 0.1946
+Validation Accuracy [Local Model][All Clients]:  0.2673
+Training Loss [Local Model][Train Clients]: 15.2830
+Validation Loss [Global Model][All Clients]: 6.3565
+
+
+Round:  18
+Validation Accuracy [Global Model][All Clients]: 0.2369
+Validation Accuracy [Local Model][All Clients]:  0.2064
+Training Loss [Local Model][Train Clients]: 357.5013
+Validation Loss [Global Model][All Clients]: 6.7996
+
+
+Round:  19
+Validation Accuracy [Global Model][All Clients]: 0.1757
+Validation Accuracy [Local Model][All Clients]:  0.2372
+Training Loss [Local Model][Train Clients]: 38.4148
+Validation Loss [Global Model][All Clients]: 6.7754
+
+
+Round:  20
+Validation Accuracy [Global Model][All Clients]: 0.2262
+Validation Accuracy [Local Model][All Clients]:  0.1871
+Training Loss [Local Model][Train Clients]: 57.9254
+Validation Loss [Global Model][All Clients]: 8.7450
+
+
+Round:  21
+Validation Accuracy [Global Model][All Clients]: 0.2013
+Validation Accuracy [Local Model][All Clients]:  0.2242
+Training Loss [Local Model][Train Clients]: 33.2304
+Validation Loss [Global Model][All Clients]: 6.5582
+
+
+Round:  22
+Validation Accuracy [Global Model][All Clients]: 0.1770
+Validation Accuracy [Local Model][All Clients]:  0.2029
+Training Loss [Local Model][Train Clients]: 20.0159
+Validation Loss [Global Model][All Clients]: 6.3068
+
+
+Round:  23
+Validation Accuracy [Global Model][All Clients]: 0.1638
+Validation Accuracy [Local Model][All Clients]:  0.1667
+Training Loss [Local Model][Train Clients]: 92.2698
+Validation Loss [Global Model][All Clients]: 6.7479
+
+
+Round:  24
+Validation Accuracy [Global Model][All Clients]: 0.1744
+Validation Accuracy [Local Model][All Clients]:  0.1729
+Training Loss [Local Model][Train Clients]: 89.1978
+Validation Loss [Global Model][All Clients]: 6.6465
+
+
+Round:  25
+Validation Accuracy [Global Model][All Clients]: 0.2533
+Validation Accuracy [Local Model][All Clients]:  0.1813
+Training Loss [Local Model][Train Clients]: 41.8331
+Validation Loss [Global Model][All Clients]: 7.4465
+
+
+Round:  26
+Validation Accuracy [Global Model][All Clients]: 0.1519
+Validation Accuracy [Local Model][All Clients]:  0.2313
+Training Loss [Local Model][Train Clients]: 46.3943
+Validation Loss [Global Model][All Clients]: 8.0864
+
+
+Round:  27
+Validation Accuracy [Global Model][All Clients]: 0.1444
+Validation Accuracy [Local Model][All Clients]:  0.1714
+Training Loss [Local Model][Train Clients]: 186.8515
+Validation Loss [Global Model][All Clients]: 7.8118
+
+
+Round:  28
+Validation Accuracy [Global Model][All Clients]: 0.0872
+Validation Accuracy [Local Model][All Clients]:  0.1447
+Training Loss [Local Model][Train Clients]: 106.3898
+Validation Loss [Global Model][All Clients]: 25.1013
+
+
+Round:  29
+Validation Accuracy [Global Model][All Clients]: 0.1656
+Validation Accuracy [Local Model][All Clients]:  0.1037
+Training Loss [Local Model][Train Clients]: 3218.6938
+Validation Loss [Global Model][All Clients]: 9.2524
+
+
+Round:  30
+Validation Accuracy [Global Model][All Clients]: 0.1243
+Validation Accuracy [Local Model][All Clients]:  0.1603
+Training Loss [Local Model][Train Clients]: 217.2710
+Validation Loss [Global Model][All Clients]: 17.7068
+
+
+Round:  31
+Validation Accuracy [Global Model][All Clients]: 0.0958
+Validation Accuracy [Local Model][All Clients]:  0.1091
+Training Loss [Local Model][Train Clients]: 368.8125
+Validation Loss [Global Model][All Clients]: 44.3762
+
+
+Round:  32
+Validation Accuracy [Global Model][All Clients]: 0.0991
+Validation Accuracy [Local Model][All Clients]:  0.0919
+Training Loss [Local Model][Train Clients]: 138.1457
+Validation Loss [Global Model][All Clients]: 8.8252
+
+
+Round:  33
+Validation Accuracy [Global Model][All Clients]: 0.1441
+Validation Accuracy [Local Model][All Clients]:  0.0960
+Training Loss [Local Model][Train Clients]: 560.2668
+Validation Loss [Global Model][All Clients]: 12.1845
+
+
+Round:  34
+Validation Accuracy [Global Model][All Clients]: 0.1402
+Validation Accuracy [Local Model][All Clients]:  0.1132
+Training Loss [Local Model][Train Clients]: 309.9851
+Validation Loss [Global Model][All Clients]: 12.5105
+
+
+Round:  35
+Validation Accuracy [Global Model][All Clients]: 0.1303
+Validation Accuracy [Local Model][All Clients]:  0.1226
+Training Loss [Local Model][Train Clients]: 837.8421
+Validation Loss [Global Model][All Clients]: 10.2395
+
+
+Round:  36
+Validation Accuracy [Global Model][All Clients]: 0.0836
+Validation Accuracy [Local Model][All Clients]:  0.1322
+Training Loss [Local Model][Train Clients]: 195.7052
+Validation Loss [Global Model][All Clients]: 43.0570
+
+
+Round:  37
+Validation Accuracy [Global Model][All Clients]: 0.0915
+Validation Accuracy [Local Model][All Clients]:  0.0959
+Training Loss [Local Model][Train Clients]: 372.4567
+Validation Loss [Global Model][All Clients]: 9.0947
+
+
+Round:  38
+Validation Accuracy [Global Model][All Clients]: 0.0909
+Validation Accuracy [Local Model][All Clients]:  0.1146
+Training Loss [Local Model][Train Clients]: 488.5644
+Validation Loss [Global Model][All Clients]: 9.0919
+
+
+Round:  39
+Validation Accuracy [Global Model][All Clients]: 0.1081
+Validation Accuracy [Local Model][All Clients]:  0.1484
+Training Loss [Local Model][Train Clients]: 1238.6588
+Validation Loss [Global Model][All Clients]: 10.0857
+
+
+Round:  40
+Validation Accuracy [Global Model][All Clients]: 0.0879
+Validation Accuracy [Local Model][All Clients]:  0.1257
+Training Loss [Local Model][Train Clients]: 281.8042
+Validation Loss [Global Model][All Clients]: 23.1796
+
+
+Round:  41
+Validation Accuracy [Global Model][All Clients]: 0.0322
+Validation Accuracy [Local Model][All Clients]:  0.1224
+Training Loss [Local Model][Train Clients]: 286.0144
+Validation Loss [Global Model][All Clients]: 130.0528
+
+
+Round:  42
+Validation Accuracy [Global Model][All Clients]: 0.0662
+Validation Accuracy [Local Model][All Clients]:  0.0722
+Training Loss [Local Model][Train Clients]: 575.5542
+Validation Loss [Global Model][All Clients]: 97.1265
+
+
+Round:  43
+Validation Accuracy [Global Model][All Clients]: 0.1121
+Validation Accuracy [Local Model][All Clients]:  0.0791
+Training Loss [Local Model][Train Clients]: 378.6566
+Validation Loss [Global Model][All Clients]: 16.9052
+
+
+Round:  44
+Validation Accuracy [Global Model][All Clients]: 0.0955
+Validation Accuracy [Local Model][All Clients]:  0.1209
+Training Loss [Local Model][Train Clients]: 1176.9715
+Validation Loss [Global Model][All Clients]: 142.3235
+
+
+Round:  45
+Validation Accuracy [Global Model][All Clients]: 0.1323
+Validation Accuracy [Local Model][All Clients]:  0.0867
+Training Loss [Local Model][Train Clients]: 187.7426
+Validation Loss [Global Model][All Clients]: 18.8720
+
+
+Round:  46
+Validation Accuracy [Global Model][All Clients]: 0.0831
+Validation Accuracy [Local Model][All Clients]:  0.1242
+Training Loss [Local Model][Train Clients]: 111.8552
+Validation Loss [Global Model][All Clients]: 9.3119
+
+
+Round:  47
+Validation Accuracy [Global Model][All Clients]: 0.1286
+Validation Accuracy [Local Model][All Clients]:  0.1153
+Training Loss [Local Model][Train Clients]: 392.6248
+Validation Loss [Global Model][All Clients]: 10.0707
+
+
+Round:  48
+Validation Accuracy [Global Model][All Clients]: 0.0957
+Validation Accuracy [Local Model][All Clients]:  0.1559
+Training Loss [Local Model][Train Clients]: 86.0343
+Validation Loss [Global Model][All Clients]: 9.1553
+
+
+Round:  49
+Validation Accuracy [Global Model][All Clients]: 0.1035
+Validation Accuracy [Local Model][All Clients]:  0.1425
+Training Loss [Local Model][Train Clients]: 66.6868
+Validation Loss [Global Model][All Clients]: 9.5717
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.1995
+Training Loss [Local Model][Train Clients]: 0.4415
+Validation Loss [Global Model][All Clients]: 12.5812
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.0974
+Validation Accuracy [Local Model][All Clients]:  0.1380
+Training Loss [Local Model][Train Clients]: 1.1561
+Validation Loss [Global Model][All Clients]: 5.1016
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.4789
+Validation Accuracy [Local Model][All Clients]:  0.1954
+Training Loss [Local Model][Train Clients]: 1.6699
+Validation Loss [Global Model][All Clients]: 3.7860
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.5683
+Validation Accuracy [Local Model][All Clients]:  0.5600
+Training Loss [Local Model][Train Clients]: 1.4627
+Validation Loss [Global Model][All Clients]: 4.2712
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.2914
+Validation Accuracy [Local Model][All Clients]:  0.5597
+Training Loss [Local Model][Train Clients]: 1.6972
+Validation Loss [Global Model][All Clients]: 3.5009
+
+
+Round:  5
+Validation Accuracy [Global Model][All Clients]: 0.3992
+Validation Accuracy [Local Model][All Clients]:  0.3690
+Training Loss [Local Model][Train Clients]: 1.5367
+Validation Loss [Global Model][All Clients]: 3.6156
+
+
+Round:  6
+Validation Accuracy [Global Model][All Clients]: 0.5547
+Validation Accuracy [Local Model][All Clients]:  0.4282
+Training Loss [Local Model][Train Clients]: 2.1582
+Validation Loss [Global Model][All Clients]: 3.8566
+
+
+Round:  7
+Validation Accuracy [Global Model][All Clients]: 0.4260
+Validation Accuracy [Local Model][All Clients]:  0.5500
+Training Loss [Local Model][Train Clients]: 1.4413
+Validation Loss [Global Model][All Clients]: 3.6965
+
+
+Round:  8
+Validation Accuracy [Global Model][All Clients]: 0.6390
+Validation Accuracy [Local Model][All Clients]:  0.4664
+Training Loss [Local Model][Train Clients]: 1.5505
+Validation Loss [Global Model][All Clients]: 3.9442
+
+
+Round:  9
+Validation Accuracy [Global Model][All Clients]: 0.5244
+Validation Accuracy [Local Model][All Clients]:  0.5969
+Training Loss [Local Model][Train Clients]: 2.4503
+Validation Loss [Global Model][All Clients]: 3.8553
+
+
+Round:  10
+Validation Accuracy [Global Model][All Clients]: 0.2860
+Validation Accuracy [Local Model][All Clients]:  0.5132
+Training Loss [Local Model][Train Clients]: 4.4618
+Validation Loss [Global Model][All Clients]: 3.4895
+
+
+Round:  11
+Validation Accuracy [Global Model][All Clients]: 0.4207
+Validation Accuracy [Local Model][All Clients]:  0.3556
+Training Loss [Local Model][Train Clients]: 3.0465
+Validation Loss [Global Model][All Clients]: 3.7009
+
+
+Round:  12
+Validation Accuracy [Global Model][All Clients]: 0.4359
+Validation Accuracy [Local Model][All Clients]:  0.4452
+Training Loss [Local Model][Train Clients]: 2.1715
+Validation Loss [Global Model][All Clients]: 4.0008
+
+
+Round:  13
+Validation Accuracy [Global Model][All Clients]: 0.4244
+Validation Accuracy [Local Model][All Clients]:  0.4804
+Training Loss [Local Model][Train Clients]: 4.2291
+Validation Loss [Global Model][All Clients]: 3.6939
+
+
+Round:  14
+Validation Accuracy [Global Model][All Clients]: 0.4991
+Validation Accuracy [Local Model][All Clients]:  0.4634
+Training Loss [Local Model][Train Clients]: 2.0507
+Validation Loss [Global Model][All Clients]: 3.7948
+
+
+Round:  15
+Validation Accuracy [Global Model][All Clients]: 0.4353
+Validation Accuracy [Local Model][All Clients]:  0.4713
+Training Loss [Local Model][Train Clients]: 2.9097
+Validation Loss [Global Model][All Clients]: 4.1450
+
+
+Round:  16
+Validation Accuracy [Global Model][All Clients]: 0.4517
+Validation Accuracy [Local Model][All Clients]:  0.4915
+Training Loss [Local Model][Train Clients]: 2.5758
+Validation Loss [Global Model][All Clients]: 3.7140
+
+
+Round:  17
+Validation Accuracy [Global Model][All Clients]: 0.4358
+Validation Accuracy [Local Model][All Clients]:  0.4584
+Training Loss [Local Model][Train Clients]: 3.6665
+Validation Loss [Global Model][All Clients]: 3.9381
+
+
+Round:  18
+Validation Accuracy [Global Model][All Clients]: 0.4094
+Validation Accuracy [Local Model][All Clients]:  0.4926
+Training Loss [Local Model][Train Clients]: 2.5272
+Validation Loss [Global Model][All Clients]: 4.2157
+
+
+Round:  19
+Validation Accuracy [Global Model][All Clients]: 0.6517
+Validation Accuracy [Local Model][All Clients]:  0.4689
+Training Loss [Local Model][Train Clients]: 2.0587
+Validation Loss [Global Model][All Clients]: 3.9617
+
+
+Round:  20
+Validation Accuracy [Global Model][All Clients]: 0.4517
+Validation Accuracy [Local Model][All Clients]:  0.5532
+Training Loss [Local Model][Train Clients]: 3.7820
+Validation Loss [Global Model][All Clients]: 4.1813
+
+
+Round:  21
+Validation Accuracy [Global Model][All Clients]: 0.4165
+Validation Accuracy [Local Model][All Clients]:  0.4561
+Training Loss [Local Model][Train Clients]: 2.6365
+Validation Loss [Global Model][All Clients]: 4.5927
+
+
+Round:  22
+Validation Accuracy [Global Model][All Clients]: 0.4819
+Validation Accuracy [Local Model][All Clients]:  0.4667
+Training Loss [Local Model][Train Clients]: 4.2126
+Validation Loss [Global Model][All Clients]: 3.7423
+
+
+Round:  23
+Validation Accuracy [Global Model][All Clients]: 0.4297
+Validation Accuracy [Local Model][All Clients]:  0.4478
+Training Loss [Local Model][Train Clients]: 3.5208
+Validation Loss [Global Model][All Clients]: 4.6732
+
+
+Round:  24
+Validation Accuracy [Global Model][All Clients]: 0.4250
+Validation Accuracy [Local Model][All Clients]:  0.4429
+Training Loss [Local Model][Train Clients]: 8.5893
+Validation Loss [Global Model][All Clients]: 4.1257
+
+
+Round:  25
+Validation Accuracy [Global Model][All Clients]: 0.6887
+Validation Accuracy [Local Model][All Clients]:  0.4671
+Training Loss [Local Model][Train Clients]: 3.3428
+Validation Loss [Global Model][All Clients]: 4.0171
+
+
+Round:  26
+Validation Accuracy [Global Model][All Clients]: 0.4281
+Validation Accuracy [Local Model][All Clients]:  0.6133
+Training Loss [Local Model][Train Clients]: 5.8678
+Validation Loss [Global Model][All Clients]: 4.0489
+
+
+Round:  27
+Validation Accuracy [Global Model][All Clients]: 0.6986
+Validation Accuracy [Local Model][All Clients]:  0.4700
+Training Loss [Local Model][Train Clients]: 3.6561
+Validation Loss [Global Model][All Clients]: 4.0552
+
+
+Round:  28
+Validation Accuracy [Global Model][All Clients]: 0.2825
+Validation Accuracy [Local Model][All Clients]:  0.6151
+Training Loss [Local Model][Train Clients]: 3.5819
+Validation Loss [Global Model][All Clients]: 3.4765
+
+
+Round:  29
+Validation Accuracy [Global Model][All Clients]: 0.4491
+Validation Accuracy [Local Model][All Clients]:  0.3493
+Training Loss [Local Model][Train Clients]: 7.9670
+Validation Loss [Global Model][All Clients]: 4.4744
+
+
+Round:  30
+Validation Accuracy [Global Model][All Clients]: 0.4870
+Validation Accuracy [Local Model][All Clients]:  0.4670
+Training Loss [Local Model][Train Clients]: 79.1391
+Validation Loss [Global Model][All Clients]: 4.0824
+
+
+Round:  31
+Validation Accuracy [Global Model][All Clients]: 0.5049
+Validation Accuracy [Local Model][All Clients]:  0.5011
+Training Loss [Local Model][Train Clients]: 6.4456
+Validation Loss [Global Model][All Clients]: 4.3280
+
+
+Round:  32
+Validation Accuracy [Global Model][All Clients]: 0.4596
+Validation Accuracy [Local Model][All Clients]:  0.4676
+Training Loss [Local Model][Train Clients]: 5.1873
+Validation Loss [Global Model][All Clients]: 4.3068
+
+
+Round:  33
+Validation Accuracy [Global Model][All Clients]: 0.5544
+Validation Accuracy [Local Model][All Clients]:  0.4410
+Training Loss [Local Model][Train Clients]: 7.1054
+Validation Loss [Global Model][All Clients]: 3.9270
+
+
+Round:  34
+Validation Accuracy [Global Model][All Clients]: 0.4123
+Validation Accuracy [Local Model][All Clients]:  0.5225
+Training Loss [Local Model][Train Clients]: 10.0495
+Validation Loss [Global Model][All Clients]: 4.5163
+
+
+Round:  35
+Validation Accuracy [Global Model][All Clients]: 0.5950
+Validation Accuracy [Local Model][All Clients]:  0.3988
+Training Loss [Local Model][Train Clients]: 14.3982
+Validation Loss [Global Model][All Clients]: 4.0773
+
+
+Round:  36
+Validation Accuracy [Global Model][All Clients]: 0.4309
+Validation Accuracy [Local Model][All Clients]:  0.5211
+Training Loss [Local Model][Train Clients]: 10.0363
+Validation Loss [Global Model][All Clients]: 4.4194
+
+
+Round:  37
+Validation Accuracy [Global Model][All Clients]: 0.5359
+Validation Accuracy [Local Model][All Clients]:  0.4183
+Training Loss [Local Model][Train Clients]: 56.6448
+Validation Loss [Global Model][All Clients]: 4.1814
+
+
+Round:  38
+Validation Accuracy [Global Model][All Clients]: 0.6526
+Validation Accuracy [Local Model][All Clients]:  0.5317
+Training Loss [Local Model][Train Clients]: 5.4093
+Validation Loss [Global Model][All Clients]: 4.1533
+
+
+Round:  39
+Validation Accuracy [Global Model][All Clients]: 0.4213
+Validation Accuracy [Local Model][All Clients]:  0.5862
+Training Loss [Local Model][Train Clients]: 5.2487
+Validation Loss [Global Model][All Clients]: 4.7453
+
+
+Round:  40
+Validation Accuracy [Global Model][All Clients]: 0.6444
+Validation Accuracy [Local Model][All Clients]:  0.4044
+Training Loss [Local Model][Train Clients]: 29.7760
+Validation Loss [Global Model][All Clients]: 4.1645
+
+
+Round:  41
+Validation Accuracy [Global Model][All Clients]: 0.4417
+Validation Accuracy [Local Model][All Clients]:  0.5792
+Training Loss [Local Model][Train Clients]: 11.8563
+Validation Loss [Global Model][All Clients]: 4.7775
+
+
+Round:  42
+Validation Accuracy [Global Model][All Clients]: 0.4210
+Validation Accuracy [Local Model][All Clients]:  0.4497
+Training Loss [Local Model][Train Clients]: 13.7012
+Validation Loss [Global Model][All Clients]: 4.9230
+
+
+Round:  43
+Validation Accuracy [Global Model][All Clients]: 0.3977
+Validation Accuracy [Local Model][All Clients]:  0.3921
+Training Loss [Local Model][Train Clients]: 5.2977
+Validation Loss [Global Model][All Clients]: 4.6220
+
+
+Round:  44
+Validation Accuracy [Global Model][All Clients]: 0.5289
+Validation Accuracy [Local Model][All Clients]:  0.4181
+Training Loss [Local Model][Train Clients]: 9.0445
+Validation Loss [Global Model][All Clients]: 4.3273
+
+
+Round:  45
+Validation Accuracy [Global Model][All Clients]: 0.2769
+Validation Accuracy [Local Model][All Clients]:  0.5040
+Training Loss [Local Model][Train Clients]: 587.5764
+Validation Loss [Global Model][All Clients]: 4.8554
+
+
+Round:  46
+Validation Accuracy [Global Model][All Clients]: 0.6415
+Validation Accuracy [Local Model][All Clients]:  0.3865
+Training Loss [Local Model][Train Clients]: 4.7383
+Validation Loss [Global Model][All Clients]: 4.1604
+
+
+Round:  47
+Validation Accuracy [Global Model][All Clients]: 0.4756
+Validation Accuracy [Local Model][All Clients]:  0.5980
+Training Loss [Local Model][Train Clients]: 25.5782
+Validation Loss [Global Model][All Clients]: 4.2724
+
+
+Round:  48
+Validation Accuracy [Global Model][All Clients]: 0.4543
+Validation Accuracy [Local Model][All Clients]:  0.4399
+Training Loss [Local Model][Train Clients]: 6.5117
+Validation Loss [Global Model][All Clients]: 4.5465
+
+
+Round:  49
+Validation Accuracy [Global Model][All Clients]: 0.6248
+Validation Accuracy [Local Model][All Clients]:  0.4696
+Training Loss [Local Model][Train Clients]: 3047.4743
+Validation Loss [Global Model][All Clients]: 6.0247
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.2218
+Training Loss [Local Model][Train Clients]: 0.5443
+Validation Loss [Global Model][All Clients]: 12.5551
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.5684
+Validation Accuracy [Local Model][All Clients]:  0.2066
+Training Loss [Local Model][Train Clients]: 0.4792
+Validation Loss [Global Model][All Clients]: 3.9731
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.4845
+Validation Accuracy [Local Model][All Clients]:  0.5936
+Training Loss [Local Model][Train Clients]: 0.4562
+Validation Loss [Global Model][All Clients]: 3.8305
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.5585
+Validation Accuracy [Local Model][All Clients]:  0.6113
+Training Loss [Local Model][Train Clients]: 0.4773
+Validation Loss [Global Model][All Clients]: 3.5046
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.4394
+Validation Accuracy [Local Model][All Clients]:  0.5705
+Training Loss [Local Model][Train Clients]: 0.4820
+Validation Loss [Global Model][All Clients]: 3.6792
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.2140
+Training Loss [Local Model][Train Clients]: 0.6025
+Validation Loss [Global Model][All Clients]: 12.5459
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.5943
+Validation Accuracy [Local Model][All Clients]:  0.2068
+Training Loss [Local Model][Train Clients]: 0.5126
+Validation Loss [Global Model][All Clients]: 4.0145
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.4458
+Validation Accuracy [Local Model][All Clients]:  0.6146
+Training Loss [Local Model][Train Clients]: 0.4766
+Validation Loss [Global Model][All Clients]: 3.6761
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.4091
+Validation Accuracy [Local Model][All Clients]:  0.5732
+Training Loss [Local Model][Train Clients]: 0.4728
+Validation Loss [Global Model][All Clients]: 3.4947
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.3718
+Validation Accuracy [Local Model][All Clients]:  0.4904
+Training Loss [Local Model][Train Clients]: 0.4781
+Validation Loss [Global Model][All Clients]: 3.4871
+
+
+Round:  0
+Validation Accuracy [Global Model][All Clients]: 0.0000
+Validation Accuracy [Local Model][All Clients]:  0.1984
+Training Loss [Local Model][Train Clients]: 0.5382
+Validation Loss [Global Model][All Clients]: 12.5707
+
+
+Round:  1
+Validation Accuracy [Global Model][All Clients]: 0.1254
+Validation Accuracy [Local Model][All Clients]:  0.0128
+Training Loss [Local Model][Train Clients]: 65.4388
+Validation Loss [Global Model][All Clients]: 9.3006
+
+
+Round:  2
+Validation Accuracy [Global Model][All Clients]: 0.2001
+Validation Accuracy [Local Model][All Clients]:  0.1286
+Training Loss [Local Model][Train Clients]: 60.0971
+Validation Loss [Global Model][All Clients]: 8.2040
+
+
+Round:  3
+Validation Accuracy [Global Model][All Clients]: 0.2248
+Validation Accuracy [Local Model][All Clients]:  0.1817
+Training Loss [Local Model][Train Clients]: 33.8177
+Validation Loss [Global Model][All Clients]: 6.7791
+
+
+Round:  4
+Validation Accuracy [Global Model][All Clients]: 0.2068
+Validation Accuracy [Local Model][All Clients]:  0.2175
+Training Loss [Local Model][Train Clients]: 25.1658
+Validation Loss [Global Model][All Clients]: 9.7137
